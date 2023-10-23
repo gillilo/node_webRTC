@@ -1,0 +1,4 @@
+{
+  "ignore": ["src/public/*" ,"<- 설정 경로 변경시 서버 재시작 무시"], 
+  "exec": "babel-node src/server.js"
+}
